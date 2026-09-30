@@ -76,3 +76,6 @@ streamlit run app.py                                              # demo
 Archivos: `notebook\_final.ipynb` (pipeline completo), `model.pkl` (pipeline entrenado, `joblib`),
 `datos\_muestra.csv` (100 filas), `app.py` (demo Streamlit: filas de la muestra o capturas crudas `acc\_\*.csv`).
 
+## Video Explicativo
+
+Un breve video explicando de donde surge todo: [https://youtu.be/Jrh0KvwlCis](https://youtu.be/Jrh0KvwlCis)
